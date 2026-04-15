@@ -48,7 +48,7 @@
     </p>
     <div style="margin: 20px 0;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,python,go,rust,vite,webpack&perline=5" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vite,tailwindcss,vercel,vuejs,electron,expressjs,git,github,GoLang,redis,sqlite,appwrite&perline=8" />
       </a>
     </div>
     <p style="color: #6B7280; font-style: italic; margin: 15px 0 0 0; font-size: 0.9em;">
