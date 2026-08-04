@@ -43,8 +43,8 @@
     <div style="margin: 20px 0;">
       <a href="https://skillicons.dev">
         <img
-          src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,electron,sqlite,redis,supabase,git,github,githubactions,vercel,vscode&perline=8"
-          alt="TypeScript, React, Next.js, Node.js, Go, Python, Electron, SQLite, Redis, Supabase, Git, GitHub, GitHub Actions, Vercel, and Visual Studio Code"
+          src="https://skillicons.dev/icons?i=html,css,ts,react,nextjs,tailwind,vite,nodejs,express,go,py,electron,postgres,sqlite,redis,supabase,git,github,githubactions,vscode,npm,pnpm,bun,vercel,cloudflare,vitest,linux&perline=9"
+          alt="HTML, CSS, TypeScript, React, Next.js, Tailwind CSS, Vite, Node.js, Express, Go, Python, Electron, PostgreSQL, SQLite, Redis, Supabase, Git, GitHub, GitHub Actions, Visual Studio Code, npm, pnpm, Bun, Vercel, Cloudflare, Vitest, and Linux"
         />
       </a>
     </div>
