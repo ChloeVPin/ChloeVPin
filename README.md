@@ -37,22 +37,17 @@
     Technologies
   </summary>
   <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.9), rgba(243, 244, 246, 0.8)); padding: 25px; border-radius: 10px; margin-top: 15px; text-align: center; border: 1px solid #E5E7EB;">
-    <div style="margin-bottom: 20px;">
-      <img src="/JavaScript.svg" height="28" style="margin: 0 8px; filter: drop-shadow(0 2px 4px rgba(139, 92, 246, 0.3));">
-      <img src="/Python.svg" height="28" style="margin: 0 8px; filter: drop-shadow(0 2px 4px rgba(139, 92, 246, 0.3));">
-      <img src="/React.svg" height="28" style="margin: 0 8px; filter: drop-shadow(0 2px 4px rgba(139, 92, 246, 0.3));">
-    </div>
     <p style="color: #6B7280; margin: 15px 0 20px 0;">
-      Primary technologies
+      Languages, frameworks, platforms, and tools that I use
     </p>
     <div style="margin: 20px 0;">
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,vite,tailwindcss,vercel,vuejs,electron,expressjs,git,github,GoLang,redis,sqlite,appwrite&perline=8" />
+        <img
+          src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,go,python,electron,sqlite,redis,supabase,git,github,githubactions,vercel,vscode&perline=8"
+          alt="TypeScript, React, Next.js, Node.js, Go, Python, Electron, SQLite, Redis, Supabase, Git, GitHub, GitHub Actions, Vercel, and Visual Studio Code"
+        />
       </a>
     </div>
-    <p style="color: #6B7280; margin: 15px 0 0 0; font-size: 0.9em;">
-      Tools for web, desktop, backend, and infrastructure work
-    </p>
   </div>
 </details>
 
