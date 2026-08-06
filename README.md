@@ -74,7 +74,6 @@ A few projects from my repositories:
 | popcord | Native macOS menu bar companion for Discord, built with Swift and WebKit |
 | safe-mac-storage-cleanup-skill | Safety-first macOS storage cleanup skill for agents |
 | openpoll | Free, open-source polling with no accounts and no tracking |
-| Castle | Minimal, Cargo-inspired C++ project manager written in Rust |
 
 </div>
 
@@ -99,8 +98,4 @@ Agent harnesses, reusable agent skills, and small native tools that respect the 
 
 <div align="center">
   <img src="assets/mascot.svg" alt="Chloe's mascot" width="90"/>
-</div>
-
-<div align="center">
-  <sub>Profile themed with soft pinks and lavender. Decorations are hand-drawn SVG.</sub>
 </div>
