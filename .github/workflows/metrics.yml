@@ -25,7 +25,9 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: UTC
-          # Compact, pastel-friendly layout
+          filename: github-metrics.svg
+          config_output: svg
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_threshold: 1%
@@ -34,18 +36,19 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: no
           plugin_languages_analysis_timeout: 15
+          # Community and stars
           plugin_followup: yes
-          plugin_lines: yes
           plugin_stars: yes
           plugin_stars_limit: 4
+          # Activity and contributions
           plugin_activity: yes
           plugin_activity_limit: 5
           plugin_activity_days: 14
           plugin_activity_filter: all
+          plugin_lines: yes
+          # Year calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          output: github-metrics.svg
-          config_output: svg
 
       - name: Commit the generated SVG
         run: |
