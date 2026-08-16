@@ -1,22 +1,16 @@
 <div align="center">
+  <img src="assets/mascot.svg" alt="ChloeVPin logo" width="144" />
 
-<img src="assets/mascot.svg" alt="Chloe's mascot" width="150"/>
+  <h1>ChloeVPin</h1>
 
-<br>
+  <p>Software developer and digital creator.</p>
 
-**Software developer and digital creator**
-
+  <p>
+    <a href="https://github.com/ChloeVPin?tab=repositories"><img src="https://img.shields.io/badge/repositories-view%20all-EEB8D1?style=flat&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/ChloeVPin?tab=stars"><img src="https://img.shields.io/badge/stars-view%20profile-F7C9DE?style=flat&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/ChloeVPin/safe-mac-storage-cleanup-skill"><img src="https://img.shields.io/badge/skills-agent--ready-9B7EDE?style=flat&logo=anthropic&logoColor=white"/></a>
+  </p>
 </div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ChloeVPin?tab=repositories"><img src="https://img.shields.io/badge/repositories-view%20all-EEB8D1?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/ChloeVPin?tab=stars"><img src="https://img.shields.io/badge/stars-view%20profile-F7C9DE?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://github.com/ChloeVPin/safe-mac-storage-cleanup-skill"><img src="https://img.shields.io/badge/skills-agent--ready-9B7EDE?style=flat&logo=anthropic&logoColor=white"/></a>
-</div>
-
-<img src="assets/divider.svg" alt="divider"/>
 
 ## Hi, I am Chloe
 
