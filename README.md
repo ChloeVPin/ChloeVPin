@@ -26,26 +26,10 @@ My work spans web and desktop applications, developer tools, and AI agent skills
 
 ## Agent skills I publish
 
-These are standalone skills for AI coding agents. Each one is researched, scoped, and tested.
-
-<div align="center">
-
-[![TDD Agent Skill](https://img.shields.io/badge/TDD-Agent--Skill-8A63D2?style=flat&logo=anthropic&logoColor=white)](https://github.com/ChloeVPin/tdd-agent-skill)
-[![Apple Design Skill](https://img.shields.io/badge/Apple--Design-Skill-E8A0BF?style=flat&logo=apple&logoColor=white)](https://github.com/ChloeVPin/apple-design-skill)
-[![Mascot Mark Generator](https://img.shields.io/badge/Mascot--Mark--Generator-D98CC0?style=flat&logo=creativecommons&logoColor=white)](https://github.com/ChloeVPin/mascot-mark-generator)
-
-</div>
-
-- **TDD Agent Skill** - Research-backed test-driven development with hard RED-GREEN-REFACTOR gates, stack discovery, anti-reward-hacking rules, and mutation testing. Works with Claude Code, Codex, and any SKILL.md agent.
-- **Apple Design Skill** - Fluid motion, the Human Interface Guidelines, colour systems, dark mode, SF Symbols, layout, and accessibility, translated for the web.
-- **Mascot Mark Generator** - Turns a brand idea or vague brief into one original mascot-style logo mark.
-
-Install any of them with:
+They all live in [chloe-skills](https://github.com/ChloeVPin/chloe-skills). TDD, Apple design, mascot marks, cleanup, accessibility, and the rest.
 
 ```bash
-npx skills add ChloeVPin/tdd-agent-skill
-npx skills add ChloeVPin/apple-design-skill
-npx skills add ChloeVPin/mascot-mark-generator
+npx skills add ChloeVPin/chloe-skills
 ```
 
 <img src="assets/divider.svg" alt="divider"/>
@@ -60,7 +44,7 @@ A few projects from my repositories:
 | --- | --- |
 | launchdx | Read only macOS diagnosis for code signing, notarization, and Gatekeeper |
 | popcord | Native macOS menu bar companion for Discord, built with Swift and WebKit |
-| safe-mac-storage-cleanup-skill | Safety-first macOS storage cleanup skill for agents |
+| [chloe-skills](https://github.com/ChloeVPin/chloe-skills) | Every Agent Skill I publish, in one place |
 | openpoll | Free, open-source polling with no accounts and no tracking |
 
 </div>
@@ -78,7 +62,7 @@ Agent harnesses, reusable agent skills, and small native tools that respect the 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ChloeVPin-EEB8D1?style=flat&logo=github&logoColor=white)](https://github.com/ChloeVPin)
-[![Skills](https://img.shields.io/badge/agent--skills-portfolio-9B7EDE?style=flat&logo=readthedocs&logoColor=white)](https://github.com/ChloeVPin?tab=repositories)
+[![Skills](https://img.shields.io/badge/agent--skills-chloe--skills-9B7EDE?style=flat&logo=readthedocs&logoColor=white)](https://github.com/ChloeVPin/chloe-skills)
 
 </div>
 
