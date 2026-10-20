@@ -3,8 +3,7 @@
   <img alt="chloe" src="./assets/banner.jpg" width="100%">
 </picture>
 
-hi, i'm chloe. i'm in california. i like cute design and i like finishing
-what i start.
+hi, i'm chloe. i'm from california. i like building whatever just whenever :0
 
 currently working on **openlet**, **kiri** and **launchdx**.
 
@@ -22,8 +21,7 @@ currently working on **openlet**, **kiri** and **launchdx**.
 
 ## how i build <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/cross-dark.png"><img src="./assets/decor/cross.png" width="15" alt=""></picture>
 
-i'd rather show you the evidence than ask you to trust me. when something
-breaks, the tool says why, in plain words.
+i'd rather show you the evidence than ask you to trust me.
 
 ## say hi <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/heart-dark.png"><img src="./assets/decor/heart.png" width="19" alt=""></picture>
 
