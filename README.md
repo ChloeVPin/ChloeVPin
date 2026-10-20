@@ -3,11 +3,10 @@
   <img alt="chloe" src="./assets/banner.jpg" width="100%">
 </picture>
 
-hi, i'm chloe. i make small software for mac and the web, and i like it when
-a tool does one job and gets out of the way.
+hi, i'm chloe. i'm in california. i like cute design and i like finishing
+what i start.
 
-my rule is you shouldn't have to hand over an email address to use it, and
-nothing phones home. lately i've been working on openlet, kiri and launchdx.
+currently working on **openlet**, **kiri** and **launchdx**.
 
 ## things i've made <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/star5-dark.png"><img src="./assets/decor/star5.png" width="19" alt=""></picture>
 
