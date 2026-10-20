@@ -10,8 +10,6 @@ most of what i make is small, local-first and quietly useful — no accounts, no
 ads, no telemetry. lately i've been working on **openlet**, **kiri** and
 **launchdx**.
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/squiggle-dark.png"><img src="./assets/decor/squiggle.png" width="96" alt=""></picture>
-
 ## things i've made <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/star5-dark.png"><img src="./assets/decor/star5.png" width="19" alt=""></picture>
 
 - <img src="./assets/marks/openlet.png" alt="" width="22" valign="middle"> **[openlet](https://github.com/ChloeVPin/Openlet)** — `TypeScript` — open-source flashcards with FSRS spaced repetition, study modes, collaborative classes
