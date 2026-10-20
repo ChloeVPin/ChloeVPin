@@ -3,20 +3,19 @@
   <img alt="chloe" src="./assets/banner.jpg" width="100%">
 </picture>
 
-hi, i'm chloe. i'm a developer in california. i like cute design, clean code,
-and finishing what i start.
+hi, i'm chloe. i make small software for mac and the web, and i like it when
+a tool does one job and gets out of the way.
 
-most of what i make is small, local-first and quietly useful — no accounts, no
-ads, no telemetry. lately i've been working on **openlet**, **kiri** and
-**launchdx**.
+my rule is you shouldn't have to hand over an email address to use it, and
+nothing phones home. lately i've been working on openlet, kiri and launchdx.
 
 ## things i've made <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/star5-dark.png"><img src="./assets/decor/star5.png" width="19" alt=""></picture>
 
-- <img src="./assets/marks/openlet.png" alt="" width="22" valign="middle"> **[openlet](https://github.com/ChloeVPin/Openlet)** — `TypeScript` — open-source flashcards with FSRS spaced repetition, study modes, collaborative classes
-- <img src="./assets/marks/kiri.png" alt="" width="22" valign="middle"> **[kiri](https://github.com/ChloeVPin/Kiri)** — `Rust` — native desktop app runtime for linux, macOS and windows. webview-based, 3.7x smaller than tauri
-- <img src="./assets/marks/launchdx.png" alt="" width="22" valign="middle"> **[launchdx](https://github.com/ChloeVPin/Launchdx)** — `Swift` — find out exactly why macOS blocked your app: code signing, notarization, gatekeeper, quarantine
-- <img src="./assets/marks/deletely.png" alt="" width="22" valign="middle"> **[deletely](https://deletelymac.vercel.app)** — `Swift` — maps the forward delete key to actually deleting files in finder. 13 MB, 12 MB RAM, 0% CPU
-- <img src="./assets/marks/caffeinate.png" alt="" width="22" valign="middle"> **[caffeinate](https://caffeinatemac.vercel.app)** — `Swift` — menu bar app that drives `/usr/bin/caffeinate` with 1, 2 and 4 hour timers. no dependencies
+- <img src="./assets/marks/openlet.png" alt="" width="22" valign="middle"> **[openlet](https://github.com/ChloeVPin/Openlet)** · `TypeScript` · open-source flashcards with FSRS spaced repetition, study modes, collaborative classes
+- <img src="./assets/marks/kiri.png" alt="" width="22" valign="middle"> **[kiri](https://github.com/ChloeVPin/Kiri)** · `Rust` · native desktop app runtime for linux, macOS and windows. webview-based, 3.7x smaller than tauri
+- <img src="./assets/marks/launchdx.png" alt="" width="22" valign="middle"> **[launchdx](https://github.com/ChloeVPin/Launchdx)** · `Swift` · find out exactly why macOS blocked your app: code signing, notarization, gatekeeper, quarantine
+- <img src="./assets/marks/deletely.png" alt="" width="22" valign="middle"> **[deletely](https://deletelymac.vercel.app)** · `Swift` · maps the forward delete key to actually deleting files in finder. 13 MB, 12 MB RAM, 0% CPU
+- <img src="./assets/marks/caffeinate.png" alt="" width="22" valign="middle"> **[caffeinate](https://caffeinatemac.vercel.app)** · `Swift` · menu bar app that drives `/usr/bin/caffeinate` with 1, 2 and 4 hour timers. no dependencies
 
 ## also building <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/flower-dark.png"><img src="./assets/decor/flower.png" width="20" alt=""></picture>
 
@@ -24,7 +23,8 @@ ads, no telemetry. lately i've been working on **openlet**, **kiri** and
 
 ## how i build <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/cross-dark.png"><img src="./assets/decor/cross.png" width="15" alt=""></picture>
 
-**local-first**, **evidence-first**, and **no tracking** — no accounts, no ads, no telemetry.
+i'd rather show you the evidence than ask you to trust me. when something
+breaks, the tool says why, in plain words.
 
 ## say hi <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/decor/heart-dark.png"><img src="./assets/decor/heart.png" width="19" alt=""></picture>
 
